@@ -45,7 +45,7 @@ public class LightsTest {
 															}};
 		Object[][] data = new Object[][] { 	{10,1,new Integer[] {},new Integer[] {},result1},
 											{10,1,new Integer[] {},new Integer[] {7},result2},
-											{70,99999,new Integer[] {51},new Integer[] {4},result2}};
+											{70,99999,new Integer[] {51},new Integer[] {4},result3}};
 						
 
 	    return Arrays.asList(data);
